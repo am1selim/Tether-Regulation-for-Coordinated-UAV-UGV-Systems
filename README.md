@@ -1,4 +1,6 @@
 # Tether-Regulation-for-Coordinated-UAV-UGV-Systems
+https://youtu.be/vkr6_EDah_g
+
 This repository presents a high-fidelity simulation framework for a tethered UAV–UGV (Unmanned Aerial Vehicle–Unmanned Ground Vehicle) system designed for cooperative inspection tasks in structured environments such as warehouses. The system combines the aerial mobility and sensing capabilities of a UAV with the endurance and support of a ground vehicle, enabling long-duration and reliable inspection operations.
 
 A key focus of this project is the regulation of tether length, which is critical for ensuring safe and stable operation. The tether dynamically connects the UAV and UGV through a motor-driven winch, and its length must continuously adapt to the relative motion between both platforms. Improper regulation can lead to slack or excessive tension, potentially degrading system performance or causing instability.
